@@ -1,0 +1,46 @@
+_repo: Les-lauriers-sont-coup-s_26648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dujardin, Edouard
+    aliases:
+    - Dujardin, Édouard
+    - Dujardin, Edouard Emile Louis
+    birthdate: 1861
+    deathdate: 1949
+    gutenberg_agent_id: '32146'
+    url: http://www.gutenberg.org/2009/agents/32146
+description: "Les lauriers sont coupés (French pronunciation: ​[le lɔʁje sɔ̃ kupe],\
+  \ \"The laurels are cut\") is an 1887 novel by French author Édouard Dujardin, first\
+  \ published in the magazine Revue Indépendante. He was an early user of the literary\
+  \ technique stream of consciousness, and Les Lauriers exemplifies the style. Dujardin\
+  \ claimed later, in a study of the technique and its application in Joyce's Ulysses,\
+  \ that he was the first to use it in Les Lauriers.\nThe title derives from a French\
+  \ children's song, \"Nous n'irons plus au bois\" (\"We'll go to the woods no more\"\
+  ), where the withering of the laurel tree is a prelude to regrowth, the latter period\
+  \ marked by joyous song and dance. The novel adheres to that spirit, capturing the\
+  \ thoughts of a student in Paris over a six-hour period in the spring.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26648'
+  wikidata: Q17108976
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Stream of consciousness fiction'
+title: Les lauriers sont coupés
+url: http://www.gutenberg.org/ebooks/26648
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_lauriers_sont_coup%C3%A9s_(nouvelle)
+- https://en.wikipedia.org/wiki/Les_lauriers_sont_coup%C3%A9s
+- https://it.wikipedia.org/wiki/Les_lauriers_sont_coup%C3%A9s
